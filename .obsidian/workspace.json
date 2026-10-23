@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "10ad67e830513241",
+    "type": "split",
+    "children": [
+      {
+        "id": "635b0da2798a4b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "367dcbc057fb909b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NVG/BI - Biologi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BI - Biologi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5381017110f54a15",
+    "type": "split",
+    "children": [
+      {
+        "id": "1236ba96390c4cf1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "588ba92998c475ec",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filer"
+            }
+          },
+          {
+            "id": "c7bab2f27cc6e7ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Søg"
+            }
+          },
+          {
+            "id": "f11e8ce261a4a03d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bogmærker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c59f4e15a97065ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "a036f07e8a022b1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f2ec90c39adad0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Tilbagelinks"
+            }
+          },
+          {
+            "id": "a3decfbcb3c7ee23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Udgående links"
+            }
+          },
+          {
+            "id": "69e66eb114c8401f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0d01cd835322cc7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle egenskaber"
+            }
+          },
+          {
+            "id": "35a7b7f2fe285129",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Disposition"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Åbn Hurtigskifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn kommandopalet": false,
+      "bases:Opret ny base": false,
+      "obsidian-importer:Importér noter": false,
+      "iconic:Open rulebook": false
+    }
+  },
+  "active": "367dcbc057fb909b",
+  "lastOpenFiles": [
+    "NVG/NG - Naturgeografi.md",
+    "NVG/Kemi.canvas",
+    "NVG/FY - Fysik.md",
+    "Dansk/AP Dansk/Sproghandlinger.canvas",
+    "Samf/Politiske ideologier.canvas",
+    "Samf/Bourdieus teori.canvas",
+    "Lineære funktioner.md",
+    "Samf/Po.md",
+    "Samf/Vores Samfund - Side 9-14.md",
+    "Samf/ulighed.md",
+    "Samf/Bourdieus.md",
+    "Velkommen.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/Denotation og konnotation fra Håndbog til dansk, s 104-105.md",
+    "~$Sproghandlinger.pptx",
+    "ppt7577.tmp",
+    "~$Indirekte sproghandlinger.pptx",
+    "Indirekte sproghandlinger.pptx",
+    "Sproghandlinger.pptx",
+    "Dansk/AP Dansk/Sproghandlinger.md",
+    "Dansk/AP Dansk/~WRL0001.tmp",
+    "Dansk/AP Dansk/~WRD0000.tmp",
+    "Dansk/AP Dansk/~$gave 1, s 171.docx",
+    "Dansk/AP Dansk/Opgave 1, s 171 1.docx",
+    "Dansk/AP Dansk/Opgave 1, s 171.docx",
+    "Unavngivet.canvas",
+    "2026-10-04.md",
+    "Samf/17-21.md",
+    "opret et link.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/vintermedister.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/Perspektiver i dansk, s. 27-28 - Dansk er mange ting.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/Prinsesse af Jomfru Ane Gade - En Webdok.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/Semantiske skema.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/Modul 1.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/Fremstillingsform og tale.md",
+    "Dansk/Alkohol - forherligelse og fordømmelse/fortællere.md",
+    "OneNote/FY/2. september 2026 1203.md",
+    "Samf/15-17.md",
+    "NVG/BI - Biologi.md",
+    "OneNote/Ny sektion 1 3/3. oktober 2026 1747.md",
+    "OneNote/OneNote_DeletedPages/Seje ord.md",
+    "NVG/Bilag/BI - Biologi image 8.png",
+    "NVG/Bilag/BI - Biologi image 7.png",
+    "NVG/Bilag/BI - Biologi image 6.png",
+    "NVG/Bilag/BI - Biologi image 5.png",
+    "NVG/Bilag/BI - Biologi image 4.png",
+    "NVG/Bilag/BI - Biologi image 3.png",
+    "NVG/Bilag/BI - Biologi image 2.png",
+    "NVG/Bilag/BI - Biologi image 1.png",
+    "NVG/Bilag/BI - Biologi image.png",
+    "NVG/Bilag/FY - Fysik image.png"
+  ]
+}

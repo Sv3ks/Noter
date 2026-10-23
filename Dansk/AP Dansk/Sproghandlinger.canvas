@@ -1,0 +1,221 @@
+{
+	"nodes":[
+		{"id":"239809799c8de05b","type":"group","x":-480,"y":400,"width":1839,"height":330,"color":"5","label":"Typer af sproghandlinger"},
+		{"id":"cc88beed1e547329","type":"text","text":"# Sproghandlinger","x":300,"y":185,"width":251,"height":60},
+		{"id":"faf2613a0f83c1cf","type":"file","file":"Sproghandlinger.pptx","x":236,"y":-190,"width":380,"height":100},
+		{"id":"c803e4f973c51eb6","type":"text","text":"# Indirekte Sproghandlinger","x":-1640,"y":185,"width":377,"height":65},
+		{"id":"fbe2cd1de14746fc","type":"file","file":"Indirekte sproghandlinger.pptx","x":-1640,"y":-190,"width":377,"height":110},
+		{"id":"ae608447bf9156a5","type":"text","text":"|                           |                                                                               |                                                                                                                                  |\n| ------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |\n| **Eksempel**              | **Type af sproghandling på det bogstavelige plan**                            | **Type af sproghandling på det indirekte plan**                                                                                  |\n| Din mor arbejder ikke her | Informerende sproghandling<br><br>(Din mor er ikke ansat i denne virksomhed.) | Handlingsregulerende sproghandling<br><br>(Du skal selv sørge for at rydde op, for din mor er her ikke til at gøre det for dig.) |\n| Kan du nå saltet?         | Informerende sproghandling<br><br>(Er du mon i stand til at nå saltet?)       | Handlingsregulerende sproghandling<br><br>(Giv mig saltet!)                                                                      |\n","x":-1451,"y":406,"width":778,"height":292},
+		{"id":"ba5bbd38cdcf1aa9","type":"text","text":"## Optoning og nedtoning\nF.eks.\n- Giv mig så saltet! (Optoning)\n- Vil du være sød at række mig saltet? (Nedtoning)\n\n#### Optoningsstrategier\n- Imperativ: luk, tag, se!\n- Biord: Så, altså, lige\n- Eder (bandeord): fandme\n\n#### Nedtoningsstrategier\n- Spørgeform: ?\n- Mådesudsagnsord: kan/kunne\n- Biord der bagatelliserer: nok, lige, godt, jo, bare","x":-2120,"y":406,"width":557,"height":514},
+		{
+			"id":"7bf4c55eaacd8870",
+			"type":"text",
+			"text":"## Eksempler på op- og nedtoning\n- Vil du gå en tur i skoven\n- Jeg spiser aftensmad\n- Jeg lufter hunden\n\n**Optoning**\n- Vil du tage og gå en tur i skoven!\n- Jeg spiser aftensmad nu!\n- Jeg lufter altså hunden!\n\n**Nedtoning**\n- Kan du tænke dig at gå en tur i skoven?\n- Jeg spiser bare min mad\n- Jeg lufter godt nok lige hunden nu",
+			"styleAttributes":{
+				"shape":null,
+				"border":null,
+				"textAlign":null
+			},
+			"x":-2700,
+			"y":800,
+			"width":390,
+			"height":431
+		},
+		{"id":"bb5e8687c6b9cb8d","type":"text","text":"\n| **Ytring**                         | **Informerende sproghandling** | **Handlingsregulerende sproghandling** | **Følelses- og holdningsudtrykkende sproghandling** |\n| ---------------------------------- | ------------------------------ | -------------------------------------- | --------------------------------------------------- |\n| Luk vinduet                        |                                | X                                      |                                                     |\n| København er hovedstaden i Danmark | X                              |                                        |                                                     |\n| Vil du støvsuge?                   |                                | X                                      |                                                     |\n| Jeg er lige kommet ud af badet.    | X                              |                                        |                                                     |\n| Jeg synger virkelig dårligt.       |                                |                                        | X                                                   |\n| Vi skal lytte til hinanden.        |                                | X                                      |                                                     |\n| Timen starter kl 8.                | X                              |                                        |                                                     |\n| Jeg har det ikke så godt.          |                                |                                        | X                                                   |\n| Jeg kan desværre ikke komme.       |                                |                                        | X                                                   |\n","x":1080,"y":-300,"width":965,"height":420},
+		{"id":"a5af3dbfd4681bac","type":"text","text":"## Eksempler:\n- Det er dejligt at være dansklærer i denne klasse\n\t- Følelsesudtrykkende sproghandling. Der er ordet 'dejligt', som er vurderende\n- Som dansklærer i gymnasiet retter jeg mange stile\n\t- Informerende sproghandling. Meget objektiv\n- I skal stoppe med at snakke nu\n\t- Handlingsregulerende. Forlanger\n- Jeg synes, det er en god bog\n\t- Holdningsudtrykkende sproghandling. Det er både en holdning og 'god' er værdiladet\n- Jorden er flad som en pandekage\n\t- Informerende og lidt holdningsudtrykkende. En meddelelse men også lidt en holdning","x":1600,"y":345,"width":540,"height":440},
+		{"id":"9257a506190b75e7","type":"text","text":"## Informerende sproghandlinger\n- Ytringens indhold af information/viden/oplysning i centrum\n\t- Jeg hedder Hans\n\t\t- Meddeler\n\t- Kjolen er rød\n\t\t- Beskriver\n- Hyppigt brugte verber: meddele, beskrive, forklare, berette, bekendtgøre, gøre opmærksom på.\n- Mere objektiv og måske overfladisk","x":-460,"y":420,"width":560,"height":290},
+		{"id":"8a4a7ac65cf4554e","type":"text","text":"## Handlingsregulerende sproghandlinger\n- Afsenderen forsøger at regulere modtagerens handlinger efter sine egne\n\t- Vær stille!\n\t\t- forlange\n\t- Du skal skrive din opgave nu!\n- Hyppigt brugte verber: opfordre, bede om, foreslå, bestille, forlange\n- Egne handlinger: love tilbyde, indvilge, sværge, unskylde","x":166,"y":420,"width":580,"height":260},
+		{"id":"aa60a0ef06aa88d1","type":"text","text":"## Følelses- og holdningsudtrykkende sproghandlinger\n- Afsenderen giver udtryk for sine følelser og holdninger\n\t- Det er jeg virkelig ked af\n- Positiv: rose, indrømme, billige\n- Negativ: Beklage bebrejde beskylde","x":780,"y":420,"width":559,"height":230},
+		{
+			"id":"deeba7cb9476efdd",
+			"type":"text",
+			"text":"#### Sociolekt\nSprog baseret på social baggrund fx uddannelse, arbejde, social klasse",
+			"styleAttributes":{},
+			"x":-940,
+			"y":-600,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"1a1d79bede47898b",
+			"type":"text",
+			"text":"#### Etnolekt\nSprog blandet med etnisk baggrund, knytter sig til ét bestemt sted",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-600,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"bf1e371e7d39ac8e",
+			"type":"text",
+			"text":"#### Multietnolekt\nBlandet sprog med mange forskellige baggrunde og låneord, men baseret på majoritetssproget\n",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-600,
+			"width":260,
+			"height":168
+		},
+		{
+			"id":"a0257ed49126e4fd",
+			"type":"text",
+			"text":"### Dialekttyper",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-1120,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d0c5782a0229eeb5",
+			"type":"text",
+			"text":"#### Dialekt\nMåde at tale på, der stammer fra et område",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-860,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"b2d063cb6c147061",
+			"type":"text",
+			"text":"#### Kronolekt\nMåde at tale bå, bestemt af aldersgruppe",
+			"styleAttributes":{},
+			"x":-360,
+			"y":-860,
+			"width":260,
+			"height":160
+		},
+		{
+			"id":"7a125426515ba8ee",
+			"type":"text",
+			"text":"# Sociolingvistik",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":-540,
+			"y":-1360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7dda7fdc3f649176",
+			"type":"text",
+			"text":"### Termer",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-1360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"14b0fe529985f09d",
+			"type":"text",
+			"text":"**Kodeskift:** man skifter dialekt baseret på mennesker man er sammen med\n",
+			"styleAttributes":{},
+			"x":180,
+			"y":-1170,
+			"width":260,
+			"height":100
+		}
+	],
+	"edges":[
+		{"id":"2da51ee04fca909d","fromNode":"cc88beed1e547329","fromSide":"right","toNode":"bb5e8687c6b9cb8d","toSide":"left"},
+		{"id":"165c3816006df357","fromNode":"cc88beed1e547329","fromSide":"bottom","toNode":"239809799c8de05b","toSide":"top"},
+		{"id":"f1ebe5bf035e66a4","fromNode":"239809799c8de05b","fromSide":"right","toNode":"a5af3dbfd4681bac","toSide":"left"},
+		{"id":"5ff7fba89a97ff5d","fromNode":"cc88beed1e547329","fromSide":"left","toNode":"c803e4f973c51eb6","toSide":"right"},
+		{"id":"3c894f56bb872e48","fromNode":"faf2613a0f83c1cf","fromSide":"bottom","toNode":"cc88beed1e547329","toSide":"top"},
+		{"id":"64badb08bc1cd6d6","fromNode":"fbe2cd1de14746fc","fromSide":"bottom","toNode":"c803e4f973c51eb6","toSide":"top"},
+		{"id":"4a0bd6dd83746d7c","fromNode":"c803e4f973c51eb6","fromSide":"bottom","toNode":"ae608447bf9156a5","toSide":"top"},
+		{"id":"2da132786281f049","fromNode":"c803e4f973c51eb6","fromSide":"bottom","toNode":"ba5bbd38cdcf1aa9","toSide":"top"},
+		{"id":"45b0817b8eaa2058","fromNode":"ba5bbd38cdcf1aa9","fromSide":"left","toNode":"7bf4c55eaacd8870","toSide":"top"},
+		{"id":"e3616406054c1cbc","fromNode":"cc88beed1e547329","fromSide":"bottom","toNode":"9257a506190b75e7","toSide":"top"},
+		{"id":"af6aa9f90c2cdc58","fromNode":"cc88beed1e547329","fromSide":"bottom","toNode":"aa60a0ef06aa88d1","toSide":"top"},
+		{
+			"id":"3fc4c06ef7925b12",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a0257ed49126e4fd",
+			"fromSide":"bottom",
+			"toNode":"d0c5782a0229eeb5",
+			"toSide":"top"
+		},
+		{
+			"id":"aa5a739c16e7c7d4",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a0257ed49126e4fd",
+			"fromSide":"bottom",
+			"toNode":"b2d063cb6c147061",
+			"toSide":"top"
+		},
+		{
+			"id":"e7e0a0574c4046fe",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"a0257ed49126e4fd",
+			"fromSide":"bottom",
+			"toNode":"1a1d79bede47898b",
+			"toSide":"top"
+		},
+		{
+			"id":"5bb72c47227d35fa",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"deeba7cb9476efdd",
+			"fromSide":"top",
+			"toNode":"a0257ed49126e4fd",
+			"toSide":"left"
+		},
+		{
+			"id":"6aa9bcc875c358da",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"bf1e371e7d39ac8e",
+			"fromSide":"top",
+			"toNode":"a0257ed49126e4fd",
+			"toSide":"right"
+		},
+		{
+			"id":"d17434eaac1884c3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7a125426515ba8ee",
+			"fromSide":"bottom",
+			"toNode":"a0257ed49126e4fd",
+			"toSide":"top"
+		},
+		{
+			"id":"907faa9a29fb5a07",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7dda7fdc3f649176",
+			"fromSide":"right",
+			"toNode":"14b0fe529985f09d",
+			"toSide":"top"
+		},
+		{
+			"id":"5b9a73bbd54309a3",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7a125426515ba8ee",
+			"fromSide":"right",
+			"toNode":"7dda7fdc3f649176",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"a4a0e39dfaeb3086"
+	},
+	"drawInCanvas":{
+		"version":2,
+		"strokes":[],
+		"colorHistory":[]
+	}
+}

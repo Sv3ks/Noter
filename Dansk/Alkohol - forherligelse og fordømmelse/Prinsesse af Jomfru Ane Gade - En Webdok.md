@@ -1,0 +1,3 @@
+| Litterært | Sprogligt | Mediemæssigt |
+| --- | --- | --- |
+| 3.Personsfortæller Jf. At der er et bearbejdet perspektiv Begyndelse - midte - slutning - komposition Direkte replikker - skabe nærvær | Hverdagssprog Personligt sprog, når Amanda selv udtaler sig Detaljeret sprog, f.x. "hun skal tisse" Unødvendige detaljer | Illustrationer og der er billeder af Amanda i forskellige situationer Billeder understøtter tekster |

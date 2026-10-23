@@ -1,0 +1,23 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "onenote-file": {
+      "folder": "OneNote",
+      "attachments": {
+        "mode": "subfolder",
+        "path": "Bilag"
+      },
+      "duplicates": "update",
+      "saveSourceId": false,
+      "idProperty": "onenote-id",
+      "template": "",
+      "titleTemplate": "{{title}}"
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {
+    "onenote-file": "C:\\Users\\snorr\\Desktop\\Rosborg"
+  },
+  "lastSourceFolder": "C:\\Users\\snorr\\Desktop\\Rosborg"
+}

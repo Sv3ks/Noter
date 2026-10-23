@@ -1,0 +1,14 @@
+- Det udvidede tekstbegreb
+- Alt hvad der er lavet af mennesker kan fortolkes, og er en tekst
+- Empiri
+- Skriftlige kilder og tekster
+- Analyse
+- at skille teksten ad, gå i dybden inden for analysepunkter
+- Fra del til helhed
+- Fortolkning
+- Forståelse
+- Tema, budskab
+- Fortolkningshypotese
+- et første gæt på, hvad en tekst handler om og hvordan den skal forståes
+- Samlet fortolkning
+- svaret/bekræftelse på fortolkningshypotesen, der svarer på "hullerne" i teksten.

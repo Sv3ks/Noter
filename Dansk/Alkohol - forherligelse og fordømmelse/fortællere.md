@@ -1,0 +1,26 @@
+- Jeg fortæller
+	- Tanker og følelser
+	- Indre synsvinkel
+	- Synlig fortæller
+	- Kun information jeg-fortælleren ved
+	- Subjektiv
+	- Bevidst upålidelig fortæller
+	- Ubevidst upålidelig fortæller
+- Personalfortæller
+	- Fortælleren i 3. person
+	- Synsvinkel er knyttet til en eller få personer
+	- Man får kendskab til personens tanker og følelser
+	- Fortælleren er skjult og er ikke jegfortæller
+- Alvidende fortæller
+	- Ved alt om tanker og følelser
+	- Kan fortælle om fortid, nutid og fremtid
+	- Alle synsvinkler kan komme i spil
+	- \3. persons fortæller men ikke personbunden
+- Observerende fortæller
+	- Show dont tell
+	- Ydre synsvinkel
+	- "som et skjult kamera"
+	- Selv fortolke
+	- Kun handlinger og beskrivelser
+
+![[fortællere image.png]]
