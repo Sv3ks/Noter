@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVG/BI - Biologi.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BI - Biologi"
+              "title": "README"
             }
           }
         ]
@@ -187,15 +187,24 @@
       "iconic:Open rulebook": false
     }
   },
-  "active": "367dcbc057fb909b",
+  "active": "588ba92998c475ec",
   "lastOpenFiles": [
-    "NVG/NG - Naturgeografi.md",
-    "NVG/Kemi.canvas",
-    "NVG/FY - Fysik.md",
     "Dansk/AP Dansk/Sproghandlinger.canvas",
+    "Dansk/AP Dansk/~$Indirekte sproghandlinger.pptx",
+    "Dansk/AP Dansk/Sproghandlinger.pptx",
+    "Dansk/AP Dansk/Indirekte sproghandlinger.pptx",
+    "Dansk/Sproghandlinger.pptx",
+    "Dansk/Indirekte sproghandlinger.pptx",
+    "Mat/Lineære funktioner.md",
+    "Mat",
+    "Grundforløb/NVG/FY - Fysik.md",
+    "Grundforløb",
+    "Grundforløb/NVG/Kemi.canvas",
+    "Grundforløb/NVG/NG - Naturgeografi.md",
+    "README.md",
+    "Grundforløb/NVG/BI - Biologi.md",
     "Samf/Politiske ideologier.canvas",
     "Samf/Bourdieus teori.canvas",
-    "Lineære funktioner.md",
     "Samf/Po.md",
     "Samf/Vores Samfund - Side 9-14.md",
     "Samf/ulighed.md",
@@ -205,14 +214,7 @@
     "~$Sproghandlinger.pptx",
     "ppt7577.tmp",
     "~$Indirekte sproghandlinger.pptx",
-    "Indirekte sproghandlinger.pptx",
-    "Sproghandlinger.pptx",
     "Dansk/AP Dansk/Sproghandlinger.md",
-    "Dansk/AP Dansk/~WRL0001.tmp",
-    "Dansk/AP Dansk/~WRD0000.tmp",
-    "Dansk/AP Dansk/~$gave 1, s 171.docx",
-    "Dansk/AP Dansk/Opgave 1, s 171 1.docx",
-    "Dansk/AP Dansk/Opgave 1, s 171.docx",
     "Unavngivet.canvas",
     "2026-10-04.md",
     "Samf/17-21.md",
@@ -226,18 +228,16 @@
     "Dansk/Alkohol - forherligelse og fordømmelse/fortællere.md",
     "OneNote/FY/2. september 2026 1203.md",
     "Samf/15-17.md",
-    "NVG/BI - Biologi.md",
     "OneNote/Ny sektion 1 3/3. oktober 2026 1747.md",
-    "OneNote/OneNote_DeletedPages/Seje ord.md",
-    "NVG/Bilag/BI - Biologi image 8.png",
-    "NVG/Bilag/BI - Biologi image 7.png",
-    "NVG/Bilag/BI - Biologi image 6.png",
-    "NVG/Bilag/BI - Biologi image 5.png",
-    "NVG/Bilag/BI - Biologi image 4.png",
-    "NVG/Bilag/BI - Biologi image 3.png",
-    "NVG/Bilag/BI - Biologi image 2.png",
-    "NVG/Bilag/BI - Biologi image 1.png",
-    "NVG/Bilag/BI - Biologi image.png",
-    "NVG/Bilag/FY - Fysik image.png"
+    "Grundforløb/NVG/Bilag/BI - Biologi image 8.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 7.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 6.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 5.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 4.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 3.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 2.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image 1.png",
+    "Grundforløb/NVG/Bilag/BI - Biologi image.png",
+    "Grundforløb/NVG/Bilag/FY - Fysik image.png"
   ]
 }

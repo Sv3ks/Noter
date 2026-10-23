@@ -33,9 +33,19 @@
       "icon": "lucide-book",
       "color": "pink"
     },
-    "NVG": {
+    "Grundforløb": {
+      "icon": "lucide-graduation-cap"
+    },
+    "Grundforløb/NVG": {
       "color": "green",
       "icon": "lucide-leaf"
+    },
+    "Mat": {
+      "icon": "lucide-radical",
+      "color": "cyan"
+    },
+    "README.md": {
+      "icon": "lucide-info"
     },
     "Samf": {
       "icon": "lucide-users",

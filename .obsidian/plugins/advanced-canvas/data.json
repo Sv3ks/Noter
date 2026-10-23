@@ -52,7 +52,7 @@
   "disablePan": false,
   "readingModeFixEnabled": false,
   "autoResizeNodeFeatureEnabled": true,
-  "autoResizeNodeEnabledByDefault": false,
+  "autoResizeNodeEnabledByDefault": true,
   "autoResizeNodeMaxHeight": -1,
   "autoResizeNodeSnapToGrid": true,
   "collapsibleGroupsFeatureEnabled": true,

@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "orders": {
+    "/": [
+      "README.md",
+      "Mat",
+      "Dansk",
+      "Samf",
+      "Grundforløb"
+    ]
+  }
+}
